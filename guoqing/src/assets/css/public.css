@@ -1,0 +1,203 @@
+.confirm {
+  width: 320px;
+  height: 40px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.delcomfirm {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.del_con {
+  width: 500px;
+  height: 200px;
+
+  background: rgb(73, 206, 73);
+  position: absolute;
+  left: 15px;
+  color: blue;
+  top: 100px;
+  bottom: 0px;
+  right: 0px;
+  text-align: center;
+  margin: 20px auto;
+  padding-top: 50px;
+  position: relative;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 60px;
+  color: #ff8247;
+}
+
+#add,
+#cancel {
+  border-radius: 5px;
+  width: 70px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+}
+
+#add {
+  background: #c0ff3e;
+  color: #fff;
+}
+
+#cancel {
+  border: 1px solid #dcdfe6;
+  margin-right: 16px;
+}
+
+.mask .confirm {
+  width: 160px;
+  height: 40px;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+
+.confirm div {
+  float: right;
+}
+
+
+
+.chankan_box {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  left: 0px;
+  top: 0px;
+}
+
+.chankan {
+  width: 500px;
+  height: 300px;
+  border: 1px solid blue;
+  color: aqua;
+  font-size: 20px;
+  margin: 20px auto;
+  line-height: 100px;
+  background: rgb(73, 206, 73);
+  position: absolute;
+  left: 15px;
+  color: blue;
+  top: 100px;
+  bottom: 0px;
+  right: 0px;
+  text-align: center;
+}
+
+.chankan span {
+  color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mask {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.con {
+  width: 660px;
+  height: 350px;
+
+  background: #ffffff;
+  position: absolute;
+  left: 15px;
+  top: 100px;
+  bottom: 0px;
+  right: 0px;
+  margin: auto;
+  padding-left: 20px;
+  position: relative;
+}
+
+.con h1 {
+  font-size: 16px;
+  line-height: 60px;
+}
+
+.con_top {
+  padding-bottom: 85px;
+}
+
+.con_box {
+  position: relative;
+  /* padding: 32px 0 0 26px; */
+}
+
+.box_bot {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 1px dashed #000;
+  position: absolute;
+  left: 55px;
+  top: 0px;
+  text-align: center;
+  line-height: 100px;
+  position: relative;
+  font-size: 40px;
+  border-radius: 15px;
+}
+
+.pic_top {
+  margin-top: 15px;
+  display: inline-block;
+}
+
+input[class="des"] {
+  width: 500px;
+  height: 38px;
+  border: 1px solid #dcdfe6;
+  border-radius: 5px;
+  margin-left: 55px;
+  text-indent: 1rem;
+}
+
+.mask .confirm {
+  width: 160px;
+  height: 40px;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+
+.confirm div {
+  float: right;
+}
